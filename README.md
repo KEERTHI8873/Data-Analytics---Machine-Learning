@@ -18,29 +18,6 @@ Save the trained model for reuse
 
 Provide a GitHub-ready repository with clean code and documentation
 
-📂 Folder Structure
-bash
-Copy
-Edit
-Iris-RandomForest-Project/
-│
-├── data/
-│   └── iris_extended.csv        # Dataset file
-│
-├── notebooks/
-│   └── iris_random_forest.ipynb # Main Jupyter Notebook
-│
-├── models/
-│   └── random_forest_model.pkl  # Saved trained model
-│
-├── visualizations/
-│   ├── pairplot.png              # Pairplot of features
-│   ├── confusion_matrix.png      # Confusion matrix heatmap
-│   └── feature_importance.png    # Feature importance graph
-│
-├── README.md                     # Project description
-├── requirements.txt              # Python dependencies
-└── .gitignore                    # Files to ignore in Git
 ⚙️ Technologies Used
 Programming Language: Python 3.x
 
