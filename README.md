@@ -43,8 +43,14 @@ Versicolor
 Virginica
 
 Column Name	Description
+
 SepalLengthCm	Sepal length in centimeters
+
 SepalWidthCm	Sepal width in centimeters
+
 PetalLengthCm	Petal length in centimeters
+
 PetalWidthCm	Petal width in centimeters
+
 Species	Iris species (target label)
+
